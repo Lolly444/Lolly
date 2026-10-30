@@ -1,0 +1,22 @@
+[
+  {
+    "name": "YaoiScan (.me)",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.yaoiscanme",
+    "apk": "yaoiscanme.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.0.0",
+    "nsfw": 0,
+    "baseUrl": "https://yaoiscan.me"
+  },
+  {
+    "name": "YaoiScan (.com)",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.yaoiscancom",
+    "apk": "yaoiscancom.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.0.0",
+    "nsfw": 0,
+    "baseUrl": "https://yaoiscan.com"
+  }
+]
