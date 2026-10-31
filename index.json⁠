@@ -1,7 +1,7 @@
 [
   {
     "name": "YaoiScan (.me)",
-    "pkg": "en.yaoiscanme",
+    "pkg": "yaoiscanme",
     "apk": "yaoiscanme.apk",
     "lang": "ar",
     "code": 1,
@@ -32,7 +32,7 @@
   {
     "name": "Comic Fury",
     "pkg": "comicfury",
-    "apk": "tachiyomi-all.comicfury-v1.6.0.apk",
+    "apk": "comicfury.apk",
     "lang": "all",
     "code": 1,
     "version": "1.6.0",
