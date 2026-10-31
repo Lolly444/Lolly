@@ -28,5 +28,15 @@
     "version": "1.6.0",
     "nsfw": 0,
     "baseUrl": "https://yskcomics.com"
+  },
+  {
+    "name": "Comic Fury",
+    "pkg": "all.comicfury",
+    "apk": "tachiyomi-all.comicfury-v1.6.0.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.6.0",
+    "nsfw": 0,
+    "baseUrl": "https://comicfury.com"
   }
 ]
