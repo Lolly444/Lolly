@@ -2,7 +2,7 @@
   {
     "name": "YaoiScan (.me)",
     "pkg": "en.yaoiscanme",
-    "apk": "tachiyomi-en.yaoiscanme-v1.6.0.apk",
+    "apk": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.yaoiscanme-v1.6.0.apk",
     "lang": "ar",
     "code": 1,
     "version": "1.6.0",
@@ -12,7 +12,7 @@
   {
     "name": "YaoiScan (.com)",
     "pkg": "en.yaoiscan",
-    "apk": "tachiyomi-en.yaoiscan-v1.6.55.apk",
+    "apk": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.yaoiscan-v1.6.55.apk",
     "lang": "ar",
     "code": 1,
     "version": "1.6.55",
@@ -22,7 +22,7 @@
   {
     "name": "YSK Comics",
     "pkg": "all.yskcomics",
-    "apk": "tachiyomi-all.yskcomics-v1.6.0.apk",
+    "apk": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.yskcomics-v1.6.0.apk",
     "lang": "all",
     "code": 1,
     "version": "1.6.0",
@@ -32,7 +32,7 @@
   {
     "name": "Comic Fury",
     "pkg": "all.comicfury",
-    "apk": "tachiyomi-all.comicfury-v1.6.0.apk",
+    "apk": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.comicfury-v1.6.0.apk",
     "lang": "all",
     "code": 1,
     "version": "1.6.0",
