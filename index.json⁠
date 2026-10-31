@@ -18,5 +18,15 @@
     "version": "1.6.55",
     "nsfw": 1,
     "baseUrl": "https://yaoiscan.com"
+  },
+  {
+    "name": "YSK Comics",
+    "pkg": "all.yskcomics",
+    "apk": "yskcomics.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.6.0",
+    "nsfw": 0,
+    "baseUrl": "https://yskcomics.com"
   }
 ]
