@@ -11,7 +11,7 @@
   },
   {
     "name": "YaoiScan (.com)",
-    "pkg": "en.yaoiscan",
+    "pkg": "yaoiscan",
     "apk": "yaoiscancom.apk",
     "lang": "ar",
     "code": 1,
@@ -21,7 +21,7 @@
   },
   {
     "name": "YSK Comics",
-    "pkg": "all.yskcomics",
+    "pkg": "yskcomics",
     "apk": "yskcomics.apk",
     "lang": "all",
     "code": 1,
@@ -31,7 +31,7 @@
   },
   {
     "name": "Comic Fury",
-    "pkg": "all.comicfury",
+    "pkg": "comicfury",
     "apk": "tachiyomi-all.comicfury-v1.6.0.apk",
     "lang": "all",
     "code": 1,
